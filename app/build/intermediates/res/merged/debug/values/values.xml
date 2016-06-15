@@ -302,17 +302,15 @@
     <string name="about_app">О программе</string>
     <string name="action_settings">Настройки</string>
     <string name="add_category_view">Категория</string>
-    <string name="add_recipe">Добавить рецепт</string>
     <string name="add_recipe_bar_name">Добавить рецепт</string>
     <string name="add_recipe_logo">Добавить\nрецепт</string>
     <string name="add_recipe_toolbar">Добавить рецепт</string>
     <string name="add_recipe_view">Название</string>
-    <string name="app_name">Мои рецепты</string>
+    <string name="app_name">Независимая Федерация Реслинга</string>
     <string name="app_name_main">Независимая Федерация Реслинга</string>
     <string name="appbar_name_salads">Салаты</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
-    <string name="categories">Категории</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="deleted_menu_item">Удалённые</string>
     <string name="drawer_header_text">Drawer Header</string>
@@ -339,6 +337,8 @@
     <string name="nav_sub_menu">Sub Menu</string>
     <string name="nav_sub_menu_item01">Sub Menu Item 1</string>
     <string name="nav_sub_menu_item02">Sub Menu Item 2</string>
+    <string name="next_show">Шоу</string>
+    <string name="roster">Участники</string>
     <string name="saladTxt">Салаты</string>
     <string name="salad_descr">Салаты</string>
     <string name="second_activity_text">damn</string>
@@ -348,8 +348,8 @@
     <string name="title_activity_second">SecondActivity</string>
     <style name="AddRecipe" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/yellow</item>
-        <item name="colorPrimaryDark">@color/dark_yellow</item>
+        <item name="colorPrimary">@color/gray__header</item>
+        <item name="colorPrimaryDark">@color/gray_primary_header</item>
     </style>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
