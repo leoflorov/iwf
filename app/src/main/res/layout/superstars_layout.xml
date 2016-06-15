@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
+<android.support.v4.widget.NestedScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -24,8 +24,8 @@
 
             <ImageButton
                 android:id="@+id/antonderyabin_ImageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginEnd="1.5dp"
                 android:layout_marginRight="1.5dp"
                 android:layout_weight="1"
@@ -34,20 +34,18 @@
                 android:contentDescription="@string/anton_deryabin_descr"
                 android:cropToPadding="false"
                 android:onClick="antonDeryabinButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/deryabin" />
 
             <ImageButton
                 android:id="@+id/sergwhite_ImageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginLeft="1.5dp"
                 android:layout_marginStart="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_sergwhiteButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/white" />
 
@@ -74,7 +72,7 @@
 
             <Button
                 android:id="@+id/button_sergwhite_bottom"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="30dp"
                 android:layout_column="1"
                 android:layout_marginBottom="5dp"
@@ -92,27 +90,25 @@
 
             <ImageButton
                 android:id="@+id/loko_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginEnd="1.5dp"
                 android:layout_marginRight="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_lokoButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/lokomotiv" />
 
             <ImageButton
                 android:id="@+id/gromov_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginLeft="1.5dp"
                 android:layout_marginStart="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_gromovButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/gromov" />
         </TableRow>
@@ -138,7 +134,7 @@
 
             <Button
                 android:id="@+id/button_gromov_bottom"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="30dp"
                 android:layout_column="1"
                 android:layout_marginBottom="5dp"
@@ -156,27 +152,25 @@
 
             <ImageButton
                 android:id="@+id/lapatka_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginEnd="1.5dp"
                 android:layout_marginRight="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_lapatkaButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/lapatka" />
 
             <ImageButton
                 android:id="@+id/kremnev_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginLeft="1.5dp"
                 android:layout_marginStart="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_kremnevButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/krasavchik" />
         </TableRow>
@@ -202,7 +196,7 @@
 
             <Button
                 android:id="@+id/button_kremnev_bottom"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="30dp"
                 android:layout_column="1"
                 android:layout_marginBottom="5dp"
@@ -220,27 +214,25 @@
 
             <ImageButton
                 android:id="@+id/joker_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginEnd="1.5dp"
                 android:layout_marginRight="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_jokerButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/joker" />
 
             <ImageButton
                 android:id="@+id/crimson_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginLeft="1.5dp"
                 android:layout_marginStart="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_crimsonButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/krimson" />
         </TableRow>
@@ -266,7 +258,7 @@
 
             <Button
                 android:id="@+id/button_crimson_bottom"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="30dp"
                 android:layout_column="1"
                 android:layout_marginBottom="5dp"
@@ -284,27 +276,25 @@
 
             <ImageButton
                 android:id="@+id/vulkan_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginEnd="1.5dp"
                 android:layout_marginRight="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_vulkanButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/vulkan" />
 
             <ImageButton
                 android:id="@+id/schukin_imageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:layout_height="180dp"
                 android:layout_marginLeft="1.5dp"
                 android:layout_marginStart="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_schukinButton"
-                android:padding="5dp"
                 android:scaleType="fitCenter"
                 android:src="@drawable/schykin" />
         </TableRow>
@@ -330,7 +320,7 @@
 
             <Button
                 android:id="@+id/button_schukin_bottom"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="30dp"
                 android:layout_column="1"
                 android:layout_marginBottom="5dp"
@@ -344,4 +334,4 @@
 
     </TableLayout>
 
-</ScrollView>
+</android.support.v4.widget.NestedScrollView>

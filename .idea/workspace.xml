@@ -4,6 +4,7 @@
     <shared>
       <config>
         <devices>
+          <device id="Nexus 5" />
           <device id="Nexus 6" />
         </devices>
         <pickBest>false</pickBest>
@@ -23,6 +24,11 @@
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_second.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/superstars_layout.xml">
         <config>
           <theme>@style/AppTheme</theme>
         </config>
@@ -140,14 +146,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="superstar_page_layout.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="superstar_page_layout.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/superstar_page_layout.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08285164">
-              <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.581818">
+              <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
               <folding>
                 <element signature="e#1660#1688#0" expanded="true" />
                 <element signature="e#2846#2878#0" expanded="true" />
@@ -159,25 +165,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="superstars_layout.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="superstars_layout.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/superstars_layout.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1454546">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.47591522">
+              <caret line="187" column="48" selection-start-line="187" selection-start-column="48" selection-end-line="187" selection-end-column="48" />
               <folding>
-                <element signature="e#6631#6659#0" expanded="true" />
-                <element signature="e#7204#7232#0" expanded="true" />
-                <element signature="e#8124#8152#0" expanded="true" />
-                <element signature="e#8678#8706#0" expanded="true" />
-                <element signature="e#9253#9279#0" expanded="true" />
-                <element signature="e#9822#9850#0" expanded="true" />
-                <element signature="e#11865#11892#0" expanded="true" />
-                <element signature="e#12436#12464#0" expanded="true" />
-                <element signature="e#13352#13379#0" expanded="true" />
-                <element signature="e#13905#13933#0" expanded="true" />
+                <element signature="e#3957#3982#0" expanded="true" />
+                <element signature="e#5357#5382#0" expanded="true" />
+                <element signature="e#6476#6504#0" expanded="true" />
+                <element signature="e#7004#7032#0" expanded="true" />
+                <element signature="e#7886#7914#0" expanded="true" />
+                <element signature="e#8440#8468#0" expanded="true" />
+                <element signature="e#9008#9034#0" expanded="true" />
+                <element signature="e#9532#9560#0" expanded="true" />
+                <element signature="e#11530#11557#0" expanded="true" />
+                <element signature="e#12056#12084#0" expanded="true" />
+                <element signature="e#12934#12961#0" expanded="true" />
+                <element signature="e#13487#13515#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,10 +207,10 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-62.29091">
-              <caret line="283" column="46" selection-start-line="283" selection-start-column="46" selection-end-line="283" selection-end-column="46" />
+            <state vertical-scroll-proportion="87.92727">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding>
-                <element signature="e#4877#4904#0" expanded="true" />
+                <element signature="e#4881#4908#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1887,10 +1895,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/superstars_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/superstars_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/superstar_page_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-land/superstars_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/superstars_layout.xml" />
       </list>
     </option>
   </component>
@@ -2195,8 +2203,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34541577" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2275,17 +2283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/next_show.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_row.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
@@ -2330,32 +2327,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/superstars_layout.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1454546">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-          <folding>
-            <element signature="e#6631#6659#0" expanded="true" />
-            <element signature="e#7204#7232#0" expanded="true" />
-            <element signature="e#8124#8152#0" expanded="true" />
-            <element signature="e#8678#8706#0" expanded="true" />
-            <element signature="e#9253#9279#0" expanded="true" />
-            <element signature="e#9822#9850#0" expanded="true" />
-            <element signature="e#11865#11892#0" expanded="true" />
-            <element signature="e#12436#12464#0" expanded="true" />
-            <element signature="e#13352#13379#0" expanded="true" />
-            <element signature="e#13905#13933#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.6603775">
           <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/superstar_page_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.581818">
+          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+          <folding>
+            <element signature="e#1660#1688#0" expanded="true" />
+            <element signature="e#2846#2878#0" expanded="true" />
+            <element signature="e#3699#3733#0" expanded="true" />
+            <element signature="e#4553#4587#0" expanded="true" />
+            <element signature="e#5408#5442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/next_show.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2365,27 +2368,34 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-62.29091">
-          <caret line="283" column="46" selection-start-line="283" selection-start-column="46" selection-end-line="283" selection-end-column="46" />
+        <state vertical-scroll-proportion="87.92727">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding>
-            <element signature="e#4877#4904#0" expanded="true" />
+            <element signature="e#4881#4908#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/superstar_page_layout.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/superstars_layout.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08285164">
-          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.47591522">
+          <caret line="187" column="48" selection-start-line="187" selection-start-column="48" selection-end-line="187" selection-end-column="48" />
           <folding>
-            <element signature="e#1660#1688#0" expanded="true" />
-            <element signature="e#2846#2878#0" expanded="true" />
-            <element signature="e#3699#3733#0" expanded="true" />
-            <element signature="e#4553#4587#0" expanded="true" />
-            <element signature="e#5408#5442#0" expanded="true" />
+            <element signature="e#3957#3982#0" expanded="true" />
+            <element signature="e#5357#5382#0" expanded="true" />
+            <element signature="e#6476#6504#0" expanded="true" />
+            <element signature="e#7004#7032#0" expanded="true" />
+            <element signature="e#7886#7914#0" expanded="true" />
+            <element signature="e#8440#8468#0" expanded="true" />
+            <element signature="e#9008#9034#0" expanded="true" />
+            <element signature="e#9532#9560#0" expanded="true" />
+            <element signature="e#11530#11557#0" expanded="true" />
+            <element signature="e#12056#12084#0" expanded="true" />
+            <element signature="e#12934#12961#0" expanded="true" />
+            <element signature="e#13487#13515#0" expanded="true" />
           </folding>
         </state>
       </provider>
