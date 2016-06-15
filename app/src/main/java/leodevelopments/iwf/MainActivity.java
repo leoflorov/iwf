@@ -165,11 +165,11 @@ public class MainActivity extends AppCompatActivity {
 
             switch (position) {
                 case 0:
-                    return "Последние рецепты";
+                    return "ШОУ";
                 case 1:
-                    return "Избранное";
+                    return "НОВОСТИ";
                 case 2:
-                    return "Категории";
+                    return "УЧАСТНИКИ";
             }
 
             return null;

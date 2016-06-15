@@ -31,11 +31,11 @@
                 android:value="leodevelopments.iwf.MainActivity" />
         </activity>
         <activity
-            android:name="leodevelopments.iwf.SaladGroupActivity"
+            android:name="leodevelopments.iwf.SuperstarActivity"
             android:label="@string/appbar_name_salads" >
         </activity>
         <activity
-            android:name="leodevelopments.iwf.AddRecipeActivity"
+            android:name="leodevelopments.iwf.BuyTicketsActivity"
             android:label="@string/add_recipe_bar_name"
             android:theme="@style/AddRecipe" >
         </activity>
