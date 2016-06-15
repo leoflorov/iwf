@@ -2,81 +2,81 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1fbdc2ad80364eecd717b6c692bc17fcda5f7d5a\classes.dex" />
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_87f62628624f94f7cddd7f23beb03ede27bb18b3\classes.dex" />
     </item>
     <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_0ac991a95e26e1a20cda67bb732ad9105b3f6390\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f2c19d83899a6901a55c0c563a284fa4e2c84ae6\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_09effd6e0a69d46983201b1e24cedbfa0cde0edb\classes.dex" />
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_322af7410885e777eb3ed739758f6933c9434f4a\classes.dex" />
     </item>
     <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_940df6321f397278ce5c73ac9ccaa72f874dd543\classes.dex" />
+        sha1="99fedd6c19b6d49059fac5118459944826e37237">
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3267a8beaf2b9e08f5a227a3be82f7a7a37740d4\classes.dex" />
     </item>
     <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="da6cdf70582aff4eefedec64e2876fe1efe67743">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f621ee4d11e19cda4ba98d777f76ba2e84934baa\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_ed9c364ffb2ded980b54700676efce3227f5f064\classes.dex" />
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_19b404aacca96810348bfae1ebfea09c192a9a71\classes.dex" />
     </item>
     <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="6027329b8e6f344b2c9787156d6e4e0e74c1ba07">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e6f809c37990577956644ae0146cab6a40accd98\classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_0724f72b5d8ac69c3ecb220c08707c72bb4ed6fa\classes.dex" />
     </item>
     <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_09ff02532d7b065c515220866944a35dcfb9ad90\classes.dex" />
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_0d91f2f36b568b159bf3badcc2b3b60c326929ac\classes.dex" />
     </item>
     <item
-        jar="C:\Users\l.florov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_efa731b5ba258ed4f204adaaaef3f67e04152e5e\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_8fae4abd9fb616df65fc559b69fc0eb968c4aa92\classes.dex" />
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b7a64c567476a4d637294b47ff7cb6a45270aa24\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_d9e366db5f190999c4de22893e9498779834615c\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_5365508d2a60f42115abb85894ca0841fab7abfb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Leonid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5cd37dedadb9a6ccee6d02e01660a075c260f0fa\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\iwf\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ad054c03f316b8f3aa2ea62fa083e7d9fa24f145">
+        <dex dex="D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e2a6de2a4c55fbbd6a08a19f675c29fcd0117312\classes.dex" />
     </item>
 
 </items>
