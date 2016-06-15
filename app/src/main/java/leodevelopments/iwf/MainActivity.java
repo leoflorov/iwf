@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, AddRecipeActivity.class);
+                Intent intent = new Intent(MainActivity.this, BuyTicketsActivity.class);
                 startActivity(intent);
             }
         });
@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void saladCatButton(View view){
-        Intent intent = new Intent(MainActivity.this, SaladGroupActivity.class);
+        Intent intent = new Intent(MainActivity.this, SuperstarActivity.class);
         startActivity(intent);
     }
 
@@ -146,11 +146,11 @@ public class MainActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             switch (position) {
                 case 0:
-                    return new LastRecipesTab();
+                    return new NextShowTab();
                 case 1:
-                    return new FavouritesTab();
+                    return new NewsTab();
                 case 2:
-                    return new CategoriesTab();
+                    return new RosterTab();
             }
             return null;
         }

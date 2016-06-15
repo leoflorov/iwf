@@ -12,7 +12,7 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class AddRecipeActivity extends Activity implements View.OnClickListener {
+public class BuyTicketsActivity extends Activity implements View.OnClickListener {
 
     private DatabaseHelper mDataBaseHelper;
     private SQLiteDatabase mSQLiteDatabase;

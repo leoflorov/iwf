@@ -8,12 +8,11 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-public class CategoriesTab extends Fragment {
+public class NextShowTab extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.categories_layout, null);
-
+        return inflater.inflate(R.layout.last_recipes,null);
     }
 }

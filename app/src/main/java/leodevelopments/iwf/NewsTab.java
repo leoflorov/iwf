@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-public class FavouritesTab extends Fragment {
+public class NewsTab extends Fragment {
 
     @Nullable
     @Override

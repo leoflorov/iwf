@@ -24,10 +24,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="leodevelopments.iwf.MainActivity" />
         </activity>
-        <activity android:name="leodevelopments.iwf.SaladGroupActivity"
+        <activity android:name=".SuperstarActivity"
             android:label="@string/appbar_name_salads">
         </activity>
-        <activity android:name="leodevelopments.iwf.AddRecipeActivity"
+        <activity android:name=".BuyTicketsActivity"
             android:label="@string/add_recipe_bar_name"
             android:theme="@style/AddRecipe">
         </activity>
