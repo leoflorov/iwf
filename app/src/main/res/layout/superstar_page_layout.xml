@@ -29,7 +29,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
-                android:src="@drawable/salad"
+                android:src="@drawable/deryabin_width"
                 app:layout_collapseMode="parallax"/>
 
             <android.support.v7.widget.Toolbar
@@ -37,7 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:layout_collapseMode="pin"
-                app:title="@string/saladTxt"/>
+                app:title="@string/name_antonDeryabin"/>
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
@@ -68,7 +68,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Салат Цезарь"/>
+                        android:text="@string/antoderyabin_param_txt"/>
 
 
                 </LinearLayout>
@@ -91,7 +91,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Ингридиенты"/>
+                        android:text="@string/antonderyabin_titul_info"/>
 
                 </LinearLayout>
 
@@ -113,7 +113,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Время приготовления"/>
+                        android:text="@string/antonderyabin_moves_info"/>
 
 
                 </LinearLayout>
@@ -136,7 +136,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Инструкции"/>
+                        android:text="@string/antonderyabin_links_info"/>
 
                 </LinearLayout>
 
@@ -168,7 +168,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:inputType="textEmailAddress"
-                            android:hint="Оценка блюда" />
+                            android:hint="email" />
 
                     </android.support.design.widget.TextInputLayout>
 

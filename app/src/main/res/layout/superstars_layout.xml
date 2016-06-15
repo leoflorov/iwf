@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v4.widget.NestedScrollView android:layout_width="match_parent"
-    android:layout_height="fill_parent"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:background="@color/gray_header"
-    android:orientation="vertical"
     android:fillViewport="false"
     android:focusable="false"
     android:focusableInTouchMode="false"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    android:orientation="vertical">
 
     <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
@@ -22,33 +23,33 @@
 
 
             <ImageButton
+                android:id="@+id/antonderyabin_ImageButton"
                 android:layout_width="wrap_content"
                 android:layout_height="200dp"
-                android:id="@+id/antonderyabin_ImageButton"
-                android:src="@drawable/deryabin"
-                android:scaleType="fitCenter"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
                 android:layout_weight="1"
-                android:onClick="antonDeryabinButton"
+                android:background="#ffffff"
+                android:clickable="true"
                 android:contentDescription="@string/anton_deryabin_descr"
                 android:cropToPadding="false"
-                android:background="#ffffff"
+                android:onClick="antonDeryabinButton"
                 android:padding="5dp"
-                android:clickable="true"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
+                android:scaleType="fitCenter"
+                android:src="@drawable/deryabin" />
 
             <ImageButton
+                android:id="@+id/sergwhite_ImageButton"
                 android:layout_width="wrap_content"
                 android:layout_height="200dp"
-                android:id="@+id/sergwhite_ImageButton"
-                android:src="@drawable/white"
-                android:scaleType="fitCenter"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
-                android:padding="5dp"
                 android:contentDescription="@string/name_sergwhiteButton"
-                android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp" />
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/white" />
 
         </TableRow>
 
@@ -57,32 +58,32 @@
             android:layout_height="match_parent">
 
             <Button
+                android:id="@+id/button_antonderyabin_bottom"
                 android:layout_width="wrap_content"
                 android:layout_height="30dp"
-                android:text="@string/name_antonDeryabin"
-                android:id="@+id/button_antonderyabin_bottom"
-                android:onClick="antonDeryabinButton"
                 android:layout_column="0"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
                 android:layout_marginBottom="5dp"
-                android:clickable="true"
+                android:layout_marginEnd="1.5dp"
                 android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp"/>
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:onClick="antonDeryabinButton"
+                android:padding="-5dp"
+                android:text="@string/name_antonDeryabin" />
 
             <Button
+                android:id="@+id/button_sergwhite_bottom"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:text="@string/name_sergwhiteButton"
-                android:id="@+id/button_sergwhite_bottom"
                 android:layout_column="1"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
                 android:layout_marginBottom="5dp"
                 android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp" />
+                android:layout_marginStart="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:padding="-5dp"
+                android:text="@string/name_sergwhiteButton" />
         </TableRow>
 
         <TableRow
@@ -90,30 +91,30 @@
             android:layout_height="wrap_content">
 
             <ImageButton
+                android:id="@+id/loko_imageButton"
                 android:layout_width="wrap_content"
                 android:layout_height="200dp"
-                android:id="@+id/loko_imageButton"
-                android:src="@drawable/lokomotiv"
-                android:scaleType="fitCenter"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_lokoButton"
                 android:padding="5dp"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp"/>
+                android:scaleType="fitCenter"
+                android:src="@drawable/lokomotiv" />
 
             <ImageButton
+                android:id="@+id/gromov_imageButton"
                 android:layout_width="wrap_content"
                 android:layout_height="200dp"
-                android:id="@+id/gromov_imageButton"
-                android:src="@drawable/gromov"
-                android:scaleType="fitCenter"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
                 android:layout_weight="1"
                 android:background="#ffffff"
                 android:contentDescription="@string/name_gromovButton"
                 android:padding="5dp"
-                android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp" />
+                android:scaleType="fitCenter"
+                android:src="@drawable/gromov" />
         </TableRow>
 
         <TableRow
@@ -121,225 +122,226 @@
             android:layout_height="match_parent">
 
             <Button
-                android:layout_width="wrap_content"
-                android:layout_height="30dp"
-                android:text="@string/name_lokoButton"
                 android:id="@+id/button_loko_bottom"
-                android:onClick="antonDeryabinButton"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
                 android:layout_column="0"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
                 android:layout_marginBottom="5dp"
-                android:clickable="true"
+                android:layout_marginEnd="1.5dp"
                 android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:onClick="antonDeryabinButton"
+                android:padding="-5dp"
+                android:text="@string/name_lokoButton" />
 
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:text="@string/name_gromovButton"
                 android:id="@+id/button_gromov_bottom"
-                android:layout_column="1"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp" />
-        </TableRow>
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:id="@+id/vtoroeButton"
-                android:src="@drawable/vtoroe_cat"
-                android:scaleType="fitCenter"
-                android:layout_weight="1"
-                android:background="#ffffff"
-                android:contentDescription="@string/name_vtoroeButton"
-                android:padding="5dp"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
-
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:id="@+id/fishButton"
-                android:src="@drawable/fish_cat"
-                android:scaleType="fitCenter"
-                android:layout_weight="1"
-                android:background="#ffffff"
-                android:contentDescription="@string/name_fishButton"
-                android:padding="5dp"
-                android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp"/>
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="30dp"
-                android:text="@string/name_vtoroeButton"
-                android:id="@+id/button_vtoroe_bottom"
-                android:onClick="antonDeryabinButton"
-                android:layout_column="0"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
-                android:layout_marginBottom="5dp"
-                android:clickable="true"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
-
-            <Button
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:text="@string/name_fishButton"
-                android:id="@+id/button_fish_bottom"
                 android:layout_column="1"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
                 android:layout_marginBottom="5dp"
                 android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp"/>
-        </TableRow>
-
-        <TableRow
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:id="@+id/vegetablesButton"
-                android:src="@drawable/vegetables_cat"
-                android:scaleType="fitCenter"
-                android:layout_weight="1"
-                android:background="#ffffff"
-                android:contentDescription="@string/name_vegetablesButton"
-                android:padding="5dp"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
-
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:id="@+id/vypechkaButton"
-                android:src="@drawable/vypechka_cat"
-                android:scaleType="fitCenter"
-                android:layout_weight="1"
-                android:background="#ffffff"
-                android:contentDescription="@string/name_vypechkaButton"
-                android:padding="5dp"
-                android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="30dp"
-                android:text="@string/name_vegetablesButton"
-                android:id="@+id/button_vegetables_bottom"
-                android:onClick="antonDeryabinButton"
-                android:layout_column="0"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
-                android:layout_marginBottom="5dp"
-                android:clickable="true"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:text="@string/name_vypechkaButton"
-                android:id="@+id/button_vypechka_bottom"
-                android:layout_column="1"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
-                android:layout_marginBottom="5dp"
-                android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:id="@+id/drinksButton"
-                android:src="@drawable/drinks_cat"
-                android:scaleType="fitCenter"
-                android:layout_weight="1"
-                android:background="#ffffff"
-                android:contentDescription="@string/name_drinksButton"
-                android:padding="5dp"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
-
-            <ImageButton
-                android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:id="@+id/prazdnikiButton"
-                android:src="@drawable/prazdniki_cat"
-                android:scaleType="fitCenter"
-                android:layout_weight="1"
-                android:background="#ffffff"
-                android:contentDescription="@string/name_prazdnikiButton"
-                android:padding="5dp"
-                android:layout_marginLeft="1.5dp"
-                android:layout_marginStart="1.5dp"/>
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="30dp"
-                android:text="@string/name_drinksButton"
-                android:id="@+id/button_drinks_bottom"
-                android:onClick="antonDeryabinButton"
-                android:layout_column="0"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
-                android:layout_marginBottom="5dp"
-                android:clickable="true"
-                android:layout_marginRight="1.5dp"
-                android:layout_marginEnd="1.5dp" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:text="@string/name_prazdnikiButton"
-                android:id="@+id/button_prazdniki_bottom"
-                android:layout_column="1"
-                android:layout_weight="1"
-                android:padding="-5dp"
-                android:background="#ffffff"
-                android:layout_marginBottom="5dp"
                 android:layout_marginStart="1.5dp"
-                android:layout_marginLeft="1.5dp" />
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:padding="-5dp"
+                android:text="@string/name_gromovButton" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/lapatka_imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:contentDescription="@string/name_lapatkaButton"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/lapatka" />
+
+            <ImageButton
+                android:id="@+id/kremnev_imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:contentDescription="@string/name_kremnevButton"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/krasavchik" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button_lapatka_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_column="0"
+                android:layout_marginBottom="5dp"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:onClick="antonDeryabinButton"
+                android:padding="-5dp"
+                android:text="@string/name_lapatkaButton" />
+
+            <Button
+                android:id="@+id/button_kremnev_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_column="1"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:padding="-5dp"
+                android:text="@string/name_kremnevButton" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/joker_imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:contentDescription="@string/name_jokerButton"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/joker" />
+
+            <ImageButton
+                android:id="@+id/crimson_imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:contentDescription="@string/name_crimsonButton"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/krimson" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button_joker_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_column="0"
+                android:layout_marginBottom="5dp"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:onClick="antonDeryabinButton"
+                android:padding="-5dp"
+                android:text="@string/name_jokerButton" />
+
+            <Button
+                android:id="@+id/button_crimson_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_column="1"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:padding="-5dp"
+                android:text="@string/name_crimsonButton" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/vulkan_imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:contentDescription="@string/name_vulkanButton"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/vulkan" />
+
+            <ImageButton
+                android:id="@+id/schukin_imageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:contentDescription="@string/name_schukinButton"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/schykin" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button_vulkan_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_column="0"
+                android:layout_marginBottom="5dp"
+                android:layout_marginEnd="1.5dp"
+                android:layout_marginRight="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:onClick="antonDeryabinButton"
+                android:padding="-5dp"
+                android:text="@string/name_vulkanButton" />
+
+            <Button
+                android:id="@+id/button_schukin_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_column="1"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="1.5dp"
+                android:layout_marginStart="1.5dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:padding="-5dp"
+                android:text="@string/name_schukinButton" />
         </TableRow>
 
     </TableLayout>
 
-</android.support.v4.widget.NestedScrollView>
+</ScrollView>
