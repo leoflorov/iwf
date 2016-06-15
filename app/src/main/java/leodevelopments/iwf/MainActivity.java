@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void saladCatButton(View view){
+    public void antonDeryabinButton(View view){
         Intent intent = new Intent(MainActivity.this, SuperstarActivity.class);
         startActivity(intent);
     }

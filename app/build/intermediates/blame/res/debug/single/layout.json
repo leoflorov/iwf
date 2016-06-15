@@ -180,12 +180,12 @@
         "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
         "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buytickets_layout.xml",
         "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\layout\\buytickets_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -200,16 +200,16 @@
         "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\superstars_layout.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\layout\\superstars_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\superstars_layout.xml",
-        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\layout\\superstars_layout.xml"
     },
     {
         "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",

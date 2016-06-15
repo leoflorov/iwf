@@ -306,6 +306,7 @@
     <string name="add_recipe_logo">Добавить\nрецепт</string>
     <string name="add_recipe_toolbar">Добавить рецепт</string>
     <string name="add_recipe_view">Название</string>
+    <string name="anton_deryabin_descr">Антон Дерябин</string>
     <string name="app_name">НФР</string>
     <string name="app_name_main">НФР</string>
     <string name="appbar_name_salads">Салаты</string>
@@ -320,13 +321,13 @@
     <string name="hello_world">Привет Мир!</string>
     <string name="ingridients_txt">Ингридиенты</string>
     <string name="instruction_txt">Инструкция</string>
-    <string name="name_chickenButton">Курица</string>
+    <string name="name_antonDeryabin">Антон Дерябин</string>
     <string name="name_drinksButton">Напитки</string>
     <string name="name_fishButton">Рыба</string>
-    <string name="name_meatButton">Мясо</string>
+    <string name="name_gromovButton">Иван Громов</string>
+    <string name="name_lokoButton">Локомотив</string>
     <string name="name_prazdnikiButton">Праздники</string>
-    <string name="name_saladButton">Салаты</string>
-    <string name="name_soupButton">Супы</string>
+    <string name="name_sergwhiteButton">Сергей Белый</string>
     <string name="name_vegetablesButton">Овощи</string>
     <string name="name_vtoroeButton">Второе</string>
     <string name="name_vypechkaButton">Выпечка</string>
@@ -340,7 +341,6 @@
     <string name="next_show">Шоу</string>
     <string name="roster">Участники</string>
     <string name="saladTxt">Салаты</string>
-    <string name="salad_descr">Салаты</string>
     <string name="second_activity_text">damn</string>
     <string name="settings">Настройки</string>
     <string name="status_bar_notification_info_overflow">999+</string>
