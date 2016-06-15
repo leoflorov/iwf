@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Независимая Федерация Реслинга</string>
+    <string name="app_name">НФР</string>
     <string name="nav_item_attachment">Attachment</string>
     <string name="nav_item_images">Images</string>
     <string name="nav_item_location">My Location</string>
@@ -10,7 +10,7 @@
     <string name="title_activity_second">SecondActivity</string>
     <string name="hello_world">Привет Мир!</string>
     <string name="action_settings">Настройки</string>
-    <string name="app_name_main">Независимая Федерация Реслинга</string>
+    <string name="app_name_main">НФР</string>
     <string name="appbar_name_salads">Салаты</string>
     <string name="roster">Участники</string>
     <string name="favorites">Избранное</string>
