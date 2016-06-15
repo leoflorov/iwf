@@ -23,7 +23,7 @@ public class BuyTicketsActivity extends Activity implements View.OnClickListener
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.addrecipe_layout);
+        setContentView(R.layout.buytickets_layout);
 
         btnAdd = (Button) findViewById(R.id.saveRecipeButton);
         btnAdd.setOnClickListener(this);

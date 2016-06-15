@@ -6,7 +6,7 @@
     <string name="nav_sub_menu">Sub Menu</string>
     <string name="nav_sub_menu_item01">Sub Menu Item 1</string>
     <string name="nav_sub_menu_item02">Sub Menu Item 2</string>
-    <string name="drawer_header_text">Drawer Header</string>
+    <string name="drawer_header_text">Независимая Федерация Реслинга</string>
     <string name="title_activity_second">SecondActivity</string>
     <string name="hello_world">Привет Мир!</string>
     <string name="action_settings">Настройки</string>
@@ -20,7 +20,7 @@
     <string name="saladTxt">Салаты</string>
     <string name="salad_descr">Салаты</string>
     <string name="add_recipe_logo">Добавить\nрецепт</string>
-    <string name="last_recipes_logo">Последние\nрецепты</string>
+    <string name="news_tab_textview">Новости</string>
     <string name="name_saladButton">Салаты</string>
     <string name="name_soupButton">Супы</string>
     <string name="name_meatButton">Мясо</string>
@@ -34,7 +34,7 @@
     <string name="add_recipe_bar_name">Добавить рецепт</string>
     <string name="fab">fab</string>
     <string name="favorites_toolbar_name">Избранное</string>
-    <string name="deleted_menu_item">Удалённые</string>
+    <string name="contacts_menu_item">Контакты</string>
     <string name="add_category_view">Категория</string>
     <string name="add_recipe_view">Название</string>
     <string name="add_recipe_toolbar">Добавить рецепт</string>

@@ -54,7 +54,7 @@
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <color name="gray__header">#898686</color>
+    <color name="gray_header">#898686</color>
     <color name="gray_primary_header">#6e6d6d</color>
     <color name="green">#1fa82a</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
@@ -84,9 +84,9 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="red">#f27038</color>
-    <color name="red__header">#b63a24</color>
-    <color name="red_primary_header">#fc0000</color>
+    <color name="red">#b32d18</color>
+    <color name="red_header">#be3921</color>
+    <color name="red_primary_header">#a90a0a</color>
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
     <color name="ripple_material_light_1">#1f000000</color>
@@ -306,21 +306,20 @@
     <string name="add_recipe_logo">Добавить\nрецепт</string>
     <string name="add_recipe_toolbar">Добавить рецепт</string>
     <string name="add_recipe_view">Название</string>
-    <string name="app_name">Независимая Федерация Реслинга</string>
-    <string name="app_name_main">Независимая Федерация Реслинга</string>
+    <string name="app_name">НФР</string>
+    <string name="app_name_main">НФР</string>
     <string name="appbar_name_salads">Салаты</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="deleted_menu_item">Удалённые</string>
-    <string name="drawer_header_text">Drawer Header</string>
+    <string name="contacts_menu_item">Контакты</string>
+    <string name="drawer_header_text">Независимая Федерация Реслинга</string>
     <string name="fab">fab</string>
     <string name="favorites">Избранное</string>
     <string name="favorites_toolbar_name">Избранное</string>
     <string name="hello_world">Привет Мир!</string>
     <string name="ingridients_txt">Ингридиенты</string>
     <string name="instruction_txt">Инструкция</string>
-    <string name="last_recipes_logo">Последние\nрецепты</string>
     <string name="name_chickenButton">Курица</string>
     <string name="name_drinksButton">Напитки</string>
     <string name="name_fishButton">Рыба</string>
@@ -337,6 +336,7 @@
     <string name="nav_sub_menu">Sub Menu</string>
     <string name="nav_sub_menu_item01">Sub Menu Item 1</string>
     <string name="nav_sub_menu_item02">Sub Menu Item 2</string>
+    <string name="news_tab_textview">Новости</string>
     <string name="next_show">Шоу</string>
     <string name="roster">Участники</string>
     <string name="saladTxt">Салаты</string>
@@ -348,7 +348,7 @@
     <string name="title_activity_second">SecondActivity</string>
     <style name="AddRecipe" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/gray__header</item>
+        <item name="colorPrimary">@color/gray_header</item>
         <item name="colorPrimaryDark">@color/gray_primary_header</item>
     </style>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
@@ -361,7 +361,7 @@
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/red__header</item>
+        <item name="colorPrimary">@color/red_header</item>
         <item name="colorPrimaryDark">@color/red_primary_header</item>
         <item name="colorAccent">@color/white</item>
     </style>

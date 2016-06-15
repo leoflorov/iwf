@@ -10,6 +10,6 @@ public class SuperstarActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.salad_group);
+        setContentView(R.layout.superstar_page_layout);
     }
 }

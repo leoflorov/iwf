@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
                 items.add("Tab #" + tabPosition + " item #" + i);
             }
 
-            View v = inflater.inflate(R.layout.categories_layout, container, false);
+            View v = inflater.inflate(R.layout.superstars_layout, container, false);
             RecyclerView recyclerView = (RecyclerView) v.findViewById(R.id.recyclerview);
             recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
             recyclerView.setAdapter(new RecyclerAdapter(items));

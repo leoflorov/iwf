@@ -21,7 +21,7 @@
         <menu>
             <item
                 android:icon="@drawable/ic_emoticon"
-                android:title="@string/deleted_menu_item" />
+                android:title="@string/contacts_menu_item" />
             <item
                 android:icon="@drawable/ic_emoticon"
                 android:title="@string/settings" />

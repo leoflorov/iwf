@@ -13,6 +13,6 @@ public class NextShowTab extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.last_recipes,null);
+        return inflater.inflate(R.layout.next_show,null);
     }
 }
