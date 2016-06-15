@@ -6,7 +6,7 @@
             android:id="@+id/categories_menu_button"
             android:checked="true"
             android:icon="@drawable/ic_attachment"
-            android:title="@string/categories" />
+            android:title="@string/roster" />
         <item
             android:id="@+id/favorites_menu_button"
             android:icon="@drawable/ic_image"
@@ -14,7 +14,7 @@
         <item
             android:id="@+id/addrecipe_menu_button"
             android:icon="@drawable/ic_place"
-            android:title="@string/add_recipe" />
+            android:title="@string/next_show" />
     </group>
 
     <item android:title="@string/nav_sub_menu">

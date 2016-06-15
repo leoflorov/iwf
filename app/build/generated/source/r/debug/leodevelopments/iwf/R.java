@@ -2717,7 +2717,7 @@ containing a value of this type.
         public static final int about_app=0x7f060014;
         public static final int action_settings=0x7f060015;
         public static final int add_category_view=0x7f060016;
-        public static final int add_recipe=0x7f060017;
+        public static final int next_show =0x7f060017;
         public static final int add_recipe_bar_name=0x7f060018;
         public static final int add_recipe_logo=0x7f060019;
         public static final int add_recipe_toolbar=0x7f06001a;
@@ -2727,7 +2727,7 @@ containing a value of this type.
         public static final int appbar_name_salads=0x7f06001e;
         public static final int appbar_scrolling_view_behavior=0x7f06001f;
         public static final int bottom_sheet_behavior=0x7f060020;
-        public static final int categories=0x7f060021;
+        public static final int roster =0x7f060021;
         public static final int character_counter_pattern=0x7f060022;
         public static final int deleted_menu_item=0x7f060023;
         public static final int drawer_header_text=0x7f060024;

@@ -12,9 +12,9 @@
     <string name="action_settings">Настройки</string>
     <string name="app_name_main">Независимая Федерация Реслинга</string>
     <string name="appbar_name_salads">Салаты</string>
-    <string name="categories">Категории</string>
+    <string name="roster">Участники</string>
     <string name="favorites">Избранное</string>
-    <string name="add_recipe">Добавить рецепт</string>
+    <string name="next_show">Шоу</string>
     <string name="settings">Настройки</string>
     <string name="about_app">О программе</string>
     <string name="saladTxt">Салаты</string>
