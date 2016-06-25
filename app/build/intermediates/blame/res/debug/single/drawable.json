@@ -84,12 +84,12 @@
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\meat_cat.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vtoroe_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vtoroe_cat.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vtoroe_cat.jpg",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vtoroe_cat.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
@@ -100,16 +100,12 @@
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\compose.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad_cat.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deryabin.jpg"
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad_cat.jpg",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad_cat.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitryh.jpg",
@@ -118,6 +114,10 @@
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gromov.jpg",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\gromov.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin.jpg",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deryabin.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drinks_cat.jpg",
@@ -136,20 +136,20 @@
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\kuvalda.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bonny.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\bonny.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flexx.jpg",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\flexx.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schykin.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\schykin.jpg"
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bonny.jpg",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\bonny.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schykin.jpg",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\schykin.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\krasavchik.jpg",
@@ -260,12 +260,12 @@
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\orlov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.png",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\ss.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad.png",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin_width.jpg",

@@ -304,7 +304,6 @@
     <string name="add_category_view">Категория</string>
     <string name="add_recipe_bar_name">Добавить рецепт</string>
     <string name="add_recipe_logo">Добавить\nрецепт</string>
-    <string name="add_recipe_toolbar">Добавить рецепт</string>
     <string name="add_recipe_view">Название</string>
     <string name="antoderyabin_param_txt"><b>Параметры:</b>\nРост: 1 метр 90 см.\n Вес: 120 кг.\n Место проживания: г. Москва\n Дебют: 23 июля 2006 года, «Новая Кровь 2006»\n Спортивная подготовка: Школа НФР</string>
     <string name="anton_deryabin_descr">Антон Дерябин</string>
@@ -316,6 +315,7 @@
     <string name="appbar_name_salads">Салаты</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="buytickets_toolbar_name">Купить билет</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="contacts_menu_item">Контакты</string>
     <string name="drawer_header_text">Независимая Федерация Реслинга</string>

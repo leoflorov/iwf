@@ -37,7 +37,7 @@
     <string name="contacts_menu_item">Контакты</string>
     <string name="add_category_view">Категория</string>
     <string name="add_recipe_view">Название</string>
-    <string name="add_recipe_toolbar">Добавить рецепт</string>
+    <string name="buytickets_toolbar_name">Купить билет</string>
     <string name="second_activity_text">damn</string>
     <string name="ingridients_txt">Ингридиенты</string>
     <string name="instruction_txt">Инструкция</string>

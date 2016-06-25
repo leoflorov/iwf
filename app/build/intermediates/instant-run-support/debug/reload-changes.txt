@@ -1,14 +1,2 @@
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$drawable$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$style$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$styleable$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$layout$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\MainActivity$override.class
+CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\BuyTicketsActivity$override.class
 CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$integer$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$mipmap$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$string$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$string$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$id$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$menu$override.class
-CHANGED,D:\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$drawable$override.class
