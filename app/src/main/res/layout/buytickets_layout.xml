@@ -152,6 +152,12 @@
                 <!--android:layout_below="@+id/saveRecipeButton"-->
                 <!--android:layout_centerHorizontal="true" />-->
         <!--</RelativeLayout>-->
+        <WebView
+            android:id="@+id/buy_tickets_webview"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusableInTouchMode="true"/>
 
         <android.support.design.widget.NavigationView
             android:id="@+id/navigation_view"
@@ -162,13 +168,5 @@
             app:menu="@menu/drawer">
 
         </android.support.design.widget.NavigationView>
-
-        <WebView
-            android:id="@+id/buy_tickets_webview"
-            xmlns:android="http://schemas.android.com/apk/res/android"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:fitsSystemWindows="true"/>
-
     </android.support.v4.widget.DrawerLayout>
 </LinearLayout>

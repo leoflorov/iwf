@@ -40,6 +40,7 @@ public class BuyTicketsActivity extends Activity{
         ticketsWebView.loadUrl("http://wrestlingfederation14-03.ticketforevent.com/ru");
         ticketsWebView.getSettings().setSupportZoom(true);
         ticketsWebView.getSettings().setBuiltInZoomControls(true);
+        ticketsWebView.setPadding(0, 0, 0, 0);
     }
 
 //        mDataBaseHelper = new DatabaseHelper(this, "myrecipes.db", null, 1);

@@ -20,12 +20,12 @@
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joker.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\joker.jpg"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joker.jpg",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\joker.jpg"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pankov.jpg",
@@ -260,12 +260,12 @@
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\orlov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\ss.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad.png",
         "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.png",
+        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\ss.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin_width.jpg",
