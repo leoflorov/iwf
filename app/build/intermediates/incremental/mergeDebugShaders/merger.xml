@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\AndroidStudioProjects\iwf\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\AndroidStudioProjects\iwf\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\l.florov\AndroidStudioProjects\iwf\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\l.florov\AndroidStudioProjects\iwf\app\src\debug\shaders"/></dataSet></merger>

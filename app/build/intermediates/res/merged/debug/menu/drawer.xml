@@ -20,6 +20,7 @@
     <item android:title="@string/nav_sub_menu">
         <menu>
             <item
+                android:id="@+id/contacts_menu_button"
                 android:icon="@drawable/ic_emoticon"
                 android:title="@string/contacts_menu_item" />
             <item

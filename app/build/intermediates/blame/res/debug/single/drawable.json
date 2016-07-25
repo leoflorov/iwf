@@ -1,426 +1,618 @@
 [
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gromov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\gromov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fixtures.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\fixtures.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joker.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\joker.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\icon.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pankov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\pankov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lapatka.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\lapatka.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_pause.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vulkan.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vulkan.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leo.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\leo.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kulakov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\kulakov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connect.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\connect.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chicken_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\chicken_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vulkan.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vulkan.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\breakfast_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\breakfast_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\meat_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\meat_cat.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\white.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\supertato.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\supertato.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bonny.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\bonny.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chui.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\chui.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\davydov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\davydov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transfer.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\transfer.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mika.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\mika.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\meat_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\meat_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lutyi.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\lutyi.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vtoroe_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vtoroe_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bin.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\bin.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\compose.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hamov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\hamov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\got.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\got.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fcb.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\fcb.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitryh.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\hitryh.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuvalda.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\kuvalda.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gromov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\gromov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inbox.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\inbox.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deryabin.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\help.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drinks_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\drinks_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vtoroe.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vtoroe.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tim.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\tim.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\freddy.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\freddy.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuvalda.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\kuvalda.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.2.1\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flexx.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\flexx.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\superrus.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\superrus.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bonny.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\bonny.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vegetables_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vegetables_cat.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schykin.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\schykin.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\krasavchik.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\krasavchik.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chistyakov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\chistyakov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sallivan.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\sallivan.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sallivan.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\sallivan.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mika.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\mika.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\supertato.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\supertato.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hamov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\hamov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lapatka.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\lapatka.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoker.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\shoker.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fcb.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\fcb.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\image.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\markov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\markov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inbox.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\inbox.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\spam.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\krasavchik.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\krasavchik.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\icon.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medbrat_d.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\medbrat_d.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sent.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\sent.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\draft.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\draft.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\settings.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deserty_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deserty_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vertigo.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vertigo.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hodak.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\hodak.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tim.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\tim.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\help.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\davydov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\davydov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kulakov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\kulakov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vertigo.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vertigo.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lokomotiv.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\lokomotiv.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prazdniki_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\prazdniki_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deserty_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deserty_cat.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eretic.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\eretic.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\ss.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\senta.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\senta.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chui.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\chui.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orlov.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\orlov.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drinks_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\drinks_cat.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chistyakov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\chistyakov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\ss.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin_width.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deryabin_width.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fish_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\fish_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gladiator.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\gladiator.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neskubin.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\neskubin.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schykin.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\schykin.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rave.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\rave.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spike.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\spike.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\superrus.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\superrus.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\settings.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spike.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\spike.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\neskubin.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\neskubin.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orlov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\orlov.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soup.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\soup.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\senta.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\senta.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\table.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vegetables_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vegetables_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compose.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\compose.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lokomotiv.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\lokomotiv.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_upcoming_stop.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_mini_controller_upcoming_stop.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gladiator.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\gladiator.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vypechka_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vypechka_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sent.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\sent.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\gallery.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\squad.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\squad.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leo.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\leo.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\spam.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\krimson.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\krimson.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soup_cat.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\soup_cat.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\arrow.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bin.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\bin.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vtoroe.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vtoroe.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\composea.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\composea.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vtoroe_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vtoroe_cat.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\got.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\got.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transfer.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\transfer.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\draft.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\draft.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\squad.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\squad.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medbrat_d.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\medbrat_d.jpg"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connect.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\connect.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lutyi.jpg",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\lutyi.jpg"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\arrow.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.png",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\image.png"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soup.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\soup.png"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prazdniki_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\prazdniki_cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitryh.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\hitryh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin_width.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deryabin_width.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rave.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\rave.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fish_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\fish_cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chicken_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\chicken_cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\freddy.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\freddy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\breakfast_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\breakfast_cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoker.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\shoker.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fixtures.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\fixtures.png"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deryabin.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\deryabin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flexx.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\flexx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eretic.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\eretic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pankov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\pankov.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\table.png"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_upcoming_play.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\white.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soup_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\soup_cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\markov.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\markov.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.2.1\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vypechka_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\vypechka_cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salad_cat.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\salad_cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hodak.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\hodak.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joker.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\joker.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\composea.png",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\composea.png"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\krimson.jpg",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\src\\main\\res\\drawable\\krimson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\l.florov\\AndroidStudioProjects\\iwf\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
     }
 ]

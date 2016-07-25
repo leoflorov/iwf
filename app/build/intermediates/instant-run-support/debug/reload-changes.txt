@@ -1,0 +1,17 @@
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$string$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$styleable$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$raw$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$id$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\MainActivity$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$menu$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\SecondActivity$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$mipmap$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$layout$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\MainActivity$DesignDemoFragment$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\MainActivity$1$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$style$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\MainActivity$2$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\MainActivity$DesignDemoPagerAdapter$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\leodevelopments\iwf\R$integer$override.class
+CHANGED,C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$string$override.class
