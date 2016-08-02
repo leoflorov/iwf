@@ -2,11 +2,431 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_3dee2f4634ac2575854d0aa69fb311231fed36b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_4247c61a44bce164a210814159f47197c7578597\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_2ea16932512f662dac137bfc45e0afc74c0ff63f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_ee9628b1d1aecff1fecc57ddd52c48ca84f70af9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_a7f0cdf2da5c5ed9c134a610ab0f6d36cee3b40b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_d6e19fa6c56ca04290f570121d882fae2ee949a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_10821a5b7920b75e0610377a51948fad0dcb1bed\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="e15846837af94767e055bf8c1153d1072982e749">
+        sha1="27559f2b70d53844f88bf8f6a4a7319b1ee7e8cf">
         <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e6f809c37990577956644ae0146cab6a40accd98\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_93c8736cb2dc5ff25dd19fac18ce1ae745389d3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_3d45e255dcb31bca364348ecd04837a598238cf7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_c5165441d9de992154e7ecd5aac8202b4aa8801d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_07c39868aeb63efcdb286ee3862d6c8ec8873efc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_33912ebad4d5cefa149396ef664c557a5cfc6329\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_576ff7bf186917a5fd3cd7091586c5b317b68a42\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_bbd03c384bb14a6b766857c41412124ec710d052\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_02bfb1c88bcc7617f50e295314da8a3d1b1dac5b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_4e86210770868c99d0de9241fcebc0c383ac509f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_706959a2bddc10d80fba4e4ad1d7d0c74bb7108d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_987d6213f26e3ba5e58fc6089733dc599c28a877\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_7f9708f6e2dda2c9b63d1294968788c3bd6134c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_d86edabbf041935cef6e650cb0d80e88d908e27d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_c662397ba34f988f3059151723bfa092138ef9ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_acc44d5c4bf78e8eedf960a0dfd1a31be4258a78\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_41c101ef6ca597620356a9ecd11c33fcb2213984\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_f270810d3aed86ec1c0039353821a775e6393907\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_dd88c82777cf806415cfc901550685631da45462\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_e938cfc9abb09b4d1c3d34d4c6e182a0641e8f42\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_da3ade461c241770a81f65a3f632c4f0ef0e881c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_f08e0df024908ccd2d53b97dd6622670fb50bf5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_48c1c9a67b1a5d3e41f80831ba9c45f8186d185d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_ab18dffa8fcd75a4ceb4bab223b874ce935b15c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_0ac9bf47165617da408aeb8df0e4e1607be232b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_70d9fadc212562ab3149818dcab7abb2fc7ab2c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_9d917eb156564d058068101faeb20c63a06b2826\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_3b0242b6398e85eed4bdba116e553e18744b2b56\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_cea22e5bc6f18dc99cbaa6a85a124466377c8fa6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_e66701e83f2a237cf39bb0312c1a08371aa93c31\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_57c27bab28136afc112e2e84953c26b4d9f64f60\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_54ac869e33d5cd0c24283c8e4c465b4c52a52302\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_b774a91a7b4dfbc535d6a42e89fd8e795c0dd67a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_16fd1ed1c6c8f7ea3426fdca2eb6996424fb748b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_8fdf2a5598c40dafeddffa815df690abc6db6db5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_94ba05309d642958edf5818ff935030338d35387\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_1e3db190a1563a13f5493ed52a54e67ecf068d90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_0ed3f0b569dcc41eccce555d7e9459493dff9f1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_edc022c9053ea20f2c1e918a00e9bff97689d167\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_66faafa26b343dd1e99433ee249f0cf1de15c48e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_e4271f275f42662b378fdf9337511749bcea9db7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_24eb02c329d872fa238654e8184242a7eb9c0bcd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_3c96bd2765109ff007c1cb8b0aa5a5fa90c75f1a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_405b5bd6a87737fed552dbef7c15cf20a5a858dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_91cce5b2986b34b160f9c36e03107c85943fa638\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_8130a4ae9a4427273a7cfa91c33c53960dc9ba59\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_98a6f0536b31d8366a7b13411a21fccd5019e30e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_9b803060cb809e1cfec5f302c8c98121da222d8b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_62ff08fb5741fe7707a6feb2f3fe3650267d874d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_7e756357c74e49c1bd08fac08ea8cd31e892482c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2904eb53b476fdc16f1a8c0b199fdff8509958e">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f621ee4d11e19cda4ba98d777f76ba2e84934baa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_f588e7188a2ab6fdaf01743723ff4957f0082d8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_ccf841b45ccb0e2ae7d3a110e9410b6e8ab8d6d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\l.florov\AndroidStudioProjects\iwf\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_c23c86db53441c1350b285dcf017be962acddcbd\classes.dex" />
     </item>
 
 </items>

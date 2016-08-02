@@ -1,10 +1,16 @@
 package leodevelopments.iwf;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.content.BroadcastReceiver;
 import android.content.ContentValues;
+import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.webkit.WebView;
@@ -12,19 +18,26 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
+import android.widget.Toast;
 
-public class BuyTicketsActivity extends Activity{
+public class BuyTicketsActivity extends Activity {
 
+    private TextView downloadStatus;
     private DatabaseHelper mDataBaseHelper;
     private SQLiteDatabase mSQLiteDatabase;
     Button btnAdd;
     EditText etCategory, etName, etIngredients, etInstruction, etPhoto;
     DatabaseHelper dbHelper;
 
+
     @Override
-    public  void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.buytickets_layout);
+        downloadStatus = (TextView) findViewById(R.id.download_status);
+        Button btnDownload = (Button) findViewById(R.id.btn_download);
+        btnDownload.setOnClickListener(onDownloadListener());
 
 //        btnAdd = (Button) findViewById(R.id.saveRecipeButton);
 //        btnAdd.setOnClickListener(this);
@@ -40,8 +53,53 @@ public class BuyTicketsActivity extends Activity{
         ticketsWebView.loadUrl("http://wrestlingfederation14-03.ticketforevent.com/ru");
         ticketsWebView.getSettings().setSupportZoom(true);
         ticketsWebView.getSettings().setBuiltInZoomControls(true);
-        ticketsWebView.setPadding(0, 0, 0, 0);
+
     }
+
+    private View.OnClickListener onDownloadListener() {
+        return new View.OnClickListener() {
+            @SuppressLint("SetTextI18n")
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(BuyTicketsActivity.this, DownloadService.class);
+                intent.putExtra(DownloadService.FILENAME, "logo.jpg");
+                intent.putExtra(DownloadService.URL, "http://www.wrestlingfederation.ru/images/logo.jpg");
+                startService(intent);
+                downloadStatus.setText("Загрузка...");
+            }
+        };
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        registerReceiver(receiver, new IntentFilter(DownloadService.NOTIFICATION));
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        unregisterReceiver(receiver);
+    }
+
+    private BroadcastReceiver receiver = new BroadcastReceiver() {
+        @SuppressLint("SetTextI18n")
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            Bundle bundle = intent.getExtras();
+            if (bundle != null) {
+                int resultCode = bundle.getInt(DownloadService.RESULT);
+                if (resultCode == RESULT_OK) {
+                    Toast.makeText(BuyTicketsActivity.this, "Файл загружен!", Toast.LENGTH_LONG).show();
+                    downloadStatus.setText("Загрузка завершена");
+                } else {
+                    Toast.makeText(BuyTicketsActivity.this, "Ошибка загрузки", Toast.LENGTH_LONG).show();
+                    downloadStatus.setText("Загрузка не удалась");
+                }
+            }
+        }
+    };
+}
 
 //        mDataBaseHelper = new DatabaseHelper(this, "myrecipes.db", null, 1);
 //
@@ -60,7 +118,7 @@ public class BuyTicketsActivity extends Activity{
 //        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line, categoriesAutoComplete);
 //        textView.setAdapter(adapter);
 
-    }
+
 //            // Создаем адаптер ArrayAdapter с помощью массива строк и стандартной разметки элемета spinner
 //            ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, categoriesSpinner);
 //            adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
